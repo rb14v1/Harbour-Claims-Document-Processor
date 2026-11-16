@@ -1,0 +1,12 @@
+django>=5.0,<6.0
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+python-decouple
+django-cors-headers
+azure-storage-blob
+azure-ai-documentintelligence
+azure-search-documents
+openai
+pytest
+pytest-django
